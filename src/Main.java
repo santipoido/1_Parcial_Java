@@ -29,5 +29,6 @@ public class Main {
         rta = miEmpresa.agregarVehiculoEmpresarial("Testeo", EnumMarcas.CHEVROLET, "BBB222", 100, 250000, 20, 2020);
         rta = miEmpresa.darMantenimiento("BBB222", 250, 300000, 20);
         System.out.println(rta);
+        System.out.println("\n");
     }
 }

@@ -17,7 +17,7 @@ public class Viaje {
         this.tarifa = tarifa;
 
         this.id = cant;
-        cant++;
+        cant++; //para el id automatico
     }
     public Viaje(){}
 

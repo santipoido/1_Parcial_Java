@@ -1,5 +1,5 @@
 public enum EnumUnidadMedida {
     KGS,
     LTS,
-    LBS;
+    LBS;//
 }

@@ -52,6 +52,6 @@ public class Chofer {
                 ", apellido='" + apellido + '\'' +
                 ", dni=" + dni +
                 ", salarioPorKm=" + salarioPorKm +
-                '}';
+                "}\n";
     }
 }

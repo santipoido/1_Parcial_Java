@@ -212,6 +212,6 @@ public class Empresa {
         for(int i = 0; i < listaViajes.size(); i++){
             recaudacion = listaViajes.get(i).getTarifa();
         }
-        return "\nRecaudación: " + recaudacion;
+        return "Recaudación: " + recaudacion;
     }
 }

@@ -1,4 +1,4 @@
-public abstract class Vehiculo {
+public abstract class Vehiculo {  //abstracta
     private String modelo;
     private EnumMarcas marca;
     private String patente;

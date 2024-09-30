@@ -26,7 +26,7 @@ public class VehiculoPasajero extends Vehiculo implements IntMantenimiento{
         this.categoriaVehiculo = categoriaVehiculo;
     }
 
-    @Override
+    @Override //uso el super de tostring
     public String toString() {
         return super.toString() +
                 "cantPasajeros=" + cantPasajeros +

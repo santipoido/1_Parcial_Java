@@ -1,5 +1,5 @@
 public enum EnumCategoriaVehiculo {
     STANDAR,
     PREMIUM,
-    DELUXE;
+    DELUXE; //
 }

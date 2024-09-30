@@ -26,7 +26,7 @@ public class VehiculoCarga extends Vehiculo implements IntMantenimiento{
         this.medida = medida;
     }
 
-    @Override
+    @Override //uso el super del tostring
     public String toString() {
         return super.toString() +
                 "capacidadMax=" + capacidadMax +

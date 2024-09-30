@@ -26,7 +26,7 @@ public class VehiculoEmpresarial extends Vehiculo {
         this.añoAdquisicion = añoAdquisicion;
     }
 
-    @Override
+    @Override //uso el super del tostring
     public String toString() {
         return super.toString() +
                 "cantButacas=" + cantButacas +
